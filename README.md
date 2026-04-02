@@ -10,18 +10,18 @@
 ## Como rodar o projeto
 
 ### 1. Clone o repositório git bash
-git clone <link-do-repositorio>
-cd <nome-do-projeto>
+git clone https://github.com/Larissa-Tavares/enterprise-management.git
+cd enterprise-management
 
-# Instale as dependências:
+### Instale as dependências:
 npm install
 
-# Inicie o JSON Server (simulando o banco de dados):
+### Inicie o JSON Server (simulando o banco de dados):
 npx json-server --watch db.json --port 3000
 
-# Inicie a aplicação Vue:
+### Inicie a aplicação Vue:
 npm run serve
 
-# Abra o navegador em: 
-# Frontend http://localhost:5173/
-# Backend  http://localhost:3000/
+### Abra o navegador em: 
+### Frontend http://localhost:5173/
+### Backend  http://localhost:3000/
