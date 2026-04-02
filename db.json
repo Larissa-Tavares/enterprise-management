@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "cnpj": "55.555.555/0005-55",
+      "status": false
+    },
+    {
+      "id": "2",
+      "name": "Amazon",
+      "cnpj": "11.111.111/0001-11",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Netflix",
+      "cnpj": "22.222.222/0002-22",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Meta",
+      "cnpj": "33.333.333/0003-33",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Microsoft",
+      "cnpj": "44.444.444/0004-44",
+      "status": true
+    }
+  ],
+  "employees": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
