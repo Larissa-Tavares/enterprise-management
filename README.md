@@ -20,7 +20,7 @@ npm install
 json-server --watch db.json --port 3000
 
 ### Inicie a aplicação Vue:
-npm run serve
+npm run dev
 
 ### Abra o navegador em: 
 ### Frontend http://localhost:5173/
